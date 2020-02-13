@@ -1,6 +1,6 @@
 # Google-cloud-platform
 
-Developing a machine Learning model in the form Pikle File (.pkl)
+Developing a machine Learning model in the form of Pikle File (.pkl)
 and then using that model for prediction. 
 
 For user interface Flask Container is used and all the result is rendred to html page.
