@@ -5,6 +5,8 @@ and then using that model for prediction.
 
 For user interface Flask Container is used and all the result is rendred to html page.
 
+Then install the google cloud SDK at your cloud shell virtual environment
+
 This container is deployed on Google cloud shell, after succesfully deploying a hosting 
 url is generated.
 
