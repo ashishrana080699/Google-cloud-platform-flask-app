@@ -1,3 +1,7 @@
+## follow me on twitter to get latest updates.
+https://twitter.com/ashishrana08
+
+
 # Google-cloud-platform
 
 Developing a machine Learning model in the form of Pikle File (.pkl)
